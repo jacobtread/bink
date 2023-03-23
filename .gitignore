@@ -1,0 +1,13 @@
+/target
+.idea
+.env
+
+app.db
+.vscode/
+/data/
+
+.release
+
+tools/target
+
+
